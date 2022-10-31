@@ -1,5 +1,5 @@
 # [[Performances]]
-Optimisation et acceleration de l'entrainement et utilisation des IAs.
+Optimisation et acceleration de l'entrainement et utilisation des IAs. 
 
 # Vision
 1. [Vision par ordinateur : Reconnaître les objets plus rapidement et plus précisément grâce aux CNN](https://www.actuia.com/wp-content/uploads/2022/07/Institut-Riken-Vision-par-ordinateur-Reconnaitre-les-objets-grace-aux-CNN-1-696x348.png "Institut-Riken-Vision-par-ordinateur-Reconnaitre-les-objets-grace-aux-CNN")
