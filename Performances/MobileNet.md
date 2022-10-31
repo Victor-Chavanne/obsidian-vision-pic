@@ -1,0 +1,1 @@
+L’intelligence artificielle minimaliste : vers un avenir durable de l’IA ?](https://www.actuia.com/contribution/rajeshwari-ganesan/lintelligence-artificielle-minimaliste-vers-un-avenir-durable-de-lia/)
