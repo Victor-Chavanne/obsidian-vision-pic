@@ -1,2 +1,5 @@
-## ![[AlphaTensor]]
-## ![[MobileNet]]
+![[AlphaTensor]]
+
+![[MobileNet]]
+
+![[Pruning]]
